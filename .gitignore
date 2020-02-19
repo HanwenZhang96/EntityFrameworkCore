@@ -3,3 +3,17 @@
 ################################################################################
 
 /AspEFCore/.vs/AspEFCore/v15
+/AspEFCore/AspEFCore.Data/bin/Debug/netcoreapp2.1
+/AspEFCore/AspEFCore.Data/obj/Debug/netcoreapp2.1
+/AspEFCore/AspEFCore.Data/obj
+/AspEFCore/AspEFCore.Domain/bin/Debug/netcoreapp2.1
+/AspEFCore/AspEFCore.Domain/obj
+/AspEFCore/AspEFCore.Web/bin/Debug/netcoreapp2.1
+/AspEFCore/AspEFCore.Web/obj
+/EntityFrameworkCore/EFCore.Data/bin/Debug/netcoreapp2.1
+/EntityFrameworkCore/EFCore.Data/obj/Debug/netcoreapp2.1
+/EntityFrameworkCore/EFCore.Data/obj
+/EntityFrameworkCore/EFCore.Models/bin/Debug/netcoreapp2.1
+/EntityFrameworkCore/EFCore.Models/obj
+/AspEFCore/.vs
+/EntityFrameworkCore/.vs/EntityFrameworkCore
